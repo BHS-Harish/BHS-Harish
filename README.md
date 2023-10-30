@@ -6,6 +6,8 @@
 ## Badges 
 [![An image of @bhsharish's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhsharish)](https://holopin.io/@bhsharish)
 
+## Learning Path
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64e585e3b128dce3cb66ac77?variant=dark)](https://roadmap.sh)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lovely_harish_45) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/balaharisankar) 
