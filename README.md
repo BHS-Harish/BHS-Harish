@@ -1,7 +1,18 @@
 # Hi there , I'm Balaharisankar 👋
 
 ## 💫 About Me
-👨‍🎓 MCA Student<br>🧑‍💻 Tech Enthusiast<br>🌱 I’m currently learning AI & ML <br>🙂 Believe in "Practice makes perfect"
+👨‍🎓 MCA Student<br>🧑‍💻 Tech Enthusiast <br>🙂 Believe in "Practice makes perfect"
+
+## GSSOC(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="105px" height="105px" />
+</div>
 
 ## Badges 
 [![An image of @bhsharish's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhsharish)](https://holopin.io/@bhsharish)
@@ -19,8 +30,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BHS-Harish&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=BHS-Harish&limit=5&theme=dark&combine_all_yearly_contributions=true)
